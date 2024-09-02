@@ -65,6 +65,12 @@ body {
     grid-area: fifth;
 }
 
+.first img, .fourth img {
+    border: 3px solid;
+    border-color: #9c6de9;
+}
+
+
 body>div {
     background-color: var(--color-white);
     padding: 2rem;
